@@ -1,0 +1,38 @@
+body {
+    background-color: #C2CAD0;
+    color: black;
+    font-family: 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+}
+
+.Box {
+    width: 75%;
+    height: fit-content;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #E7717D;
+    color: black;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 175%;
+}
+
+a:link{color:#2346C8;}
+    a:visited { color:#A81CA5;}
+    a:hover{ color: #7C7EEF;}
+    a:focus{ color: #7C7EEF;}
+    a:active{ color: #FF1A1A;}
+
+
+
+.NavBar {
+    float: Top;
+    font-size: 125%;
+    width: 100%;
+    height: fit-content;
+    color: black;
+    background: #AFD275;
+    box-shadow: black;
+
+}

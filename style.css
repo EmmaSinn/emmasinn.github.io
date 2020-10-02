@@ -46,7 +46,7 @@ body {
 .Box3 {
     width: 40%;
     height: 50%;
-    position: sticky;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate( 0%, 0%);

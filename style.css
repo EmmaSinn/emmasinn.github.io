@@ -5,6 +5,7 @@ body {
 }
 
 .Box {
+    /*Home Page Box*/
     width: 75%;
     height: fit-content;
     position: fixed;
@@ -21,7 +22,7 @@ body {
 .Box2 {
     width: 40%;
     height: 50%;
-    position: relative;
+    position: fixed;
     top: 15%;
     left: 3%;
     transform: translate(-3%, -10%);

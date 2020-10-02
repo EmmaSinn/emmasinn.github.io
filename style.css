@@ -60,6 +60,21 @@ body {
     font-size: 175%;
 }
 
+.Box4 {
+    /*Used for: Fun Stuff & Projects*/
+    width: 40%;
+    height: 50%;
+    position: fixed;
+    top: 65%;
+    left: 3%;
+    transform: translate(-3%, -10%);
+    background-color: #E7717D;
+    color: black;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 175%;
+}
+
 /*links not including Nav Bar links*/
 a:link{color:#2346C8;}
     a:visited { color:#A81CA5;}

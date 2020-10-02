@@ -20,6 +20,7 @@ body {
 }
 
 .Box2 {
+    /*Used for: Fun Stuff & Projects*/
     width: 40%;
     height: 50%;
     position: fixed;
@@ -34,6 +35,7 @@ body {
 }
 
 .ShadowBox2 {
+    /*Used for: Fun Stuff & Projects*/
     width: 41%;
     height: 51%;
     position: fixed;
@@ -44,6 +46,7 @@ body {
 }
 
 .Box3 {
+    /*Used for: Fun Stuff & Projects*/
     width: 40%;
     height: 50%;
     position: fixed;
@@ -57,13 +60,7 @@ body {
     font-size: 175%;
 }
 
-
-
-.parentContainer {
-    width: 50%;
-    background-color: transparent;
-}
-
+/*links not including Nav Bar links*/
 a:link{color:#2346C8;}
     a:visited { color:#A81CA5;}
     a:hover{ color: #7C7EEF;}
@@ -71,8 +68,8 @@ a:link{color:#2346C8;}
     a:active{ color: #FF1A1A;}
 
 
-
 .NavBar {
+    /*Nav Bar for home page*/
     float: Top;
     font-size: 125%;
     width: 100%;
@@ -84,6 +81,7 @@ a:link{color:#2346C8;}
 }
 
 .NavBar2 {
+    /*Nav Bar for every page except home page*/
     float: Top;
     text-align: center;
     font-size: 200%;

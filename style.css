@@ -109,7 +109,8 @@ a:link{color:#2346C8;}
 
 /*Resume Styling*/
 hr {
-    width: 5%;
+    width: 20%;
+    height: 5%;
     margin-left: auto;
     margin-top: auto;
     background-color: #E7717D;

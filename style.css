@@ -106,3 +106,11 @@ a:link{color:#2346C8;}
     box-shadow: black;
     
 }
+
+/*Resume Styling*/
+hr {
+    width: 5%;
+    margin-left: auto;
+    margin-top: auto;
+    background-color: #E7717D;
+}

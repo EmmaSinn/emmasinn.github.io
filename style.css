@@ -36,12 +36,12 @@ body {
 
 .ShadowBox2 {
     /*Used for: Fun Stuff & Projects*/
-    width: 41%;
-    height: 51%;
+    width: 40%;
+    height: 50%;
     position: fixed;
     top: 17%;
     left: 3%;
-    transform: translate(-3%, -10%);
+    transform: translate(-2%, -9%);
     background-color: #7E685A;
 }
 

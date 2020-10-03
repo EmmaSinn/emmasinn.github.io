@@ -115,3 +115,22 @@ hr {
     margin-top: auto;
     background-color: #AFD275;
 }
+
+.left-column {
+    width: 30%;
+    height: fit-content;
+    float: left;
+    background-color: transparent;
+}
+
+.right-column {
+    width: 70%;
+    height: fit-content;
+    background-color: transparent;
+}
+
+.vertical-line {
+    width: 20%;
+    transform: rotate(90deg);
+    background-color: #AFD275;
+}

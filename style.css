@@ -2,6 +2,15 @@ body {
     background-color: #C2CAD0;
     color: black;
     font-family: 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+    text-align: center;
+
+}
+
+
+.header {
+    /*Used for Fun Stuff*/
+    text-align: center;
+    font-size: 250%;
 }
 
 /*links not including Nav Bar links*/
@@ -27,12 +36,12 @@ a:link{color:#2346C8;}
 }
 
 .Box2 {
-    /*Used for: Fun Stuff & Projects*/
+    /*Used for: Fun Stuff & Projects (Left)*/
     width: 40%;
     height: 50%;
     position: fixed;
-    top: 15%;
-    left: 3%;
+    top: 17%;
+    left: 5%;
     transform: translate(-3%, -10%);
     background-color: #E7717D;
     color: black;
@@ -47,24 +56,35 @@ a:link{color:#2346C8;}
     height: 50%;
     position: fixed;
     top: 20%;
-    left: 5%;
+    left: 7%;
     transform: translate(-2%, -5%);
     background-color: #7E685A;
 }
+
 
 .Box3 {
     /*Used for: Fun Stuff & Projects*/
     width: 40%;
     height: 50%;
     position: fixed;
-    top: 50%;
-    right: 3%;
+    top: 43%;
+    left: 55%;
     transform: translate(-3%, -10%);
     background-color: #E7717D;
     color: black;
-    text-align: center;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 175%;
+}
+
+.ShadowBox3 {
+    /*Used for: Fun Stuff & Projects*/
+    width: 40%;
+    height: 50%;
+    position: fixed;
+    top: 46%;
+    left: 57%;
+    transform: translate(-2%, -5%);
+    background-color: #7E685A;
 }
 
 .Box4 {
@@ -72,14 +92,25 @@ a:link{color:#2346C8;}
     width: 40%;
     height: 50%;
     position: fixed;
-    top: 65%;
-    left: 3%;
+    top: 70%;
+    left: 5%;
     transform: translate(-3%, -10%);
     background-color: #E7717D;
     color: black;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 175%;
+}
+
+.ShadowBox4 {
+    /*Used for: Fun Stuff & Projects*/
+    width: 40%;
+    height: 50%;
+    position: fixed;
+    top: 73%;
+    left: 7%;
+    transform: translate(-2%, -5%);
+    background-color: #7E685A;
 }
 
 .NavBar {
@@ -104,33 +135,63 @@ a:link{color:#2346C8;}
     color: black;
     background: #AFD275;
     box-shadow: black;
-    
 }
 
 /*Resume Styling*/
-hr {
+.leftColumn {
+    width: 15%;
+    height: 50%;
+    position: fixed;
+    top: 50%;
+    left: 2%;
+    transform: translate(2%, -50%);
+    background-color: #E7717D;
+}
+
+.leftColumnShadow {
+    width: 15%;
+    height: 50%;
+    position: fixed;
+    top: 52%;
+    left: 3%;
+    transform: translate(2%, -50%);
+    background-color: #7E685A;
+}
+
+.right-column {
+    height: 70%;
+    width: 60%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #E7717D;
+}
+
+.right-column-shadow {
+    height: 70%;
+    width: 60%;
+    position: fixed;
+    top: 53%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    background-color: #7E685A;
+}
+
+.horizantal-line {
     width: 20%;
-    height: 10%;
+    height: 5;
     margin-left: auto;
     margin-top: auto;
     background-color: #AFD275;
 }
 
-.left-column {
-    width: 30%;
-    height: fit-content;
-    float: left;
-    background-color: transparent;
-}
-
-.right-column {
-    width: 70%;
-    height: fit-content;
-    background-color: transparent;
-}
-
 .vertical-line {
     width: 20%;
+    top: 25%;
+    left: 17%;
+    transform: translate(-3%, -3%);
     transform: rotate(90deg);
     background-color: #AFD275;
 }
+

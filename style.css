@@ -10,7 +10,7 @@ body {
 .header {
     /*Used for Fun Stuff*/
     text-align: center;
-    font-size: 200%;
+    font-size: 2rem;
 }
 
 /*links not including Nav Bar links*/
@@ -32,7 +32,7 @@ a:link{color:#2346C8;}
     color: black;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 175%;
+    font-size: 1.75rem;
 }
 
 .Box2 {
@@ -47,7 +47,7 @@ a:link{color:#2346C8;}
     color: black;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 150%;
+    font-size: 1.5rem;
 }
 
 .ShadowBox2 {
@@ -73,7 +73,7 @@ a:link{color:#2346C8;}
     background-color: #E7717D;
     color: black;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 150%;
+    font-size: 1.5rem;
 }
 
 .ShadowBox3 {
@@ -99,7 +99,7 @@ a:link{color:#2346C8;}
     color: black;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 150%;
+    font-size: 1.5rem;
 }
 
 .ShadowBox4 {

@@ -3,6 +3,7 @@ body {
     color: black;
     font-family: 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
     text-align: center;
+    font-size: 150%;
 
 }
 
@@ -10,7 +11,7 @@ body {
 .header {
     /*Used for Fun Stuff*/
     text-align: center;
-    font-size: 250%;
+    font-size: 200%;
 }
 
 /*links not including Nav Bar links*/
@@ -146,6 +147,7 @@ a:link{color:#2346C8;}
     left: 2%;
     transform: translate(2%, -50%);
     background-color: #E7717D;
+    font-size: 150%;
 }
 
 .leftColumnShadow {
@@ -166,6 +168,7 @@ a:link{color:#2346C8;}
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #E7717D;
+    font-size: 150%;
 }
 
 .right-column-shadow {

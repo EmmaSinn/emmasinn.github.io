@@ -22,7 +22,7 @@ a:link{color:#2346C8;}
 
 .Box {
     /*Home Page Box*/
-    width: 75%;
+    width: 75vm;
     height: fit-content;
     position: fixed;
     top: 50%;
@@ -32,7 +32,7 @@ a:link{color:#2346C8;}
     color: black;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 175%;
+    font-size: 75vw;
 }
 
 .Box2 {
